@@ -1,5 +1,8 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+### NAME: KARTHIKEYAN R
+### REG.NO:212222240046
 ## AIM
+To write a python program for Implementation of sliding Window Protocol.
 ## ALGORITHM:
 1. Start the program.
 2. Get the frame size from the user
@@ -8,8 +11,6 @@
 5. If your frames reach the server it will send ACK signal to client
 6. Stop the Program
 ## PROGRAM
-### NAME: KARTHIKEYAN R
-### REG.NO:212222240046
 ### Server
 ```
 import socket
