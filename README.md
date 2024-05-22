@@ -1,6 +1,5 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
-### NAME: KARTHIKEYAN R
-### REG.NO:212222240046
+
 ## AIM
 To write a python program for Implementation of sliding Window Protocol.
 ## ALGORITHM:
